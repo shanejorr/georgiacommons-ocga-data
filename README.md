@@ -42,7 +42,13 @@ Each release carries five files:
 | United States constitution (`us-constitution`) | 52 |
 
 Section status: 28,538 active, 538 reserved, 534 repealed, 70 redesignated,
-1 superseded, 1 note only.
+1 superseded, 1 note only. Of the 52 United States constitution provisions,
+51 are active and one (Amendment XVIII, Prohibition) is repealed, as the
+volume's own editor's note says; its text is kept.
+
+The current release is `ocga-2025-supplement-v2` (corpus version
+`2025-supplement-35f294dc21c9`). Each release's notes list what changed
+from the one before; a published release's assets are never rewritten.
 
 ### Qualifications on that coverage
 
